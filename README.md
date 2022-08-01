@@ -14,4 +14,9 @@ yarn run serve
 ```
 yarn run build
 ```
+### Screenshots of the application
+
+![saving-quick-notes-vue](public/quick-save-app-1.png)
+![saving-quick-notes-vue](public/quick-save-app-2.png)
+![saving-quick-notes-vue](public/quick-save-app-3.png)
 
