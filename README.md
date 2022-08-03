@@ -19,4 +19,5 @@ yarn run build
 ![saving-quick-notes-vue](public/quick-save-app-1.png)
 ![saving-quick-notes-vue](public/quick-save-app-2.png)
 ![saving-quick-notes-vue](public/quick-save-app-3.png)
+![saving-quick-notes-vue](public/quick-save-app-4.png)
 
